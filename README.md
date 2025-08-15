@@ -13,13 +13,12 @@ You can download it here: https://nodejs.org/
 
 ## Installation
 
-1. Clone the repository
-  git clone https://github.com/Fiza-04/cocktail-finder.git
-  cd cocktail-finder
+1. Clone the repository --->
+git clone https://github.com/Fiza-04/cocktail-finder.git ---> cd cocktail-finder
 
-2. Install dependencies
+2. Install dependencies ---> 
   npm install
 
-3. Run the app
+3. Run the app --->
   npm run dev
   
